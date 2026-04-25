@@ -57,8 +57,6 @@ Contributed to production full-stack engineering. Gained hands-on experience wit
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dhana-27/Dhana-27/output/github-snake.svg" />
   </picture>
 </div>
-
-
 ## 📬 Let's connect
 
 I'm actively looking for SWE internships and 2027 new grad roles. If you're building something interesting — reach out.
