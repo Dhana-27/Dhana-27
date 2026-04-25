@@ -1,4 +1,10 @@
-# Hey, I'm Dhana Lakshmi 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhana+Lakshmi+%F0%9F%91%8B;CS+%7C+Cybersecurity+%7C+Full-Stack;Building+things+that+matter." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhana-27&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
 **CS undergrad specializing in Cybersecurity · Building real tools for real problems · Chennai, India**
 
@@ -7,23 +13,18 @@
 
 I build things that matter — an AI weed detection system for farmers, a dark web monitoring tool, a centralized grants platform. I'm at my best under pressure (most of my best ideas came from tight hackathon deadlines), and I believe discipline beats motivation every single time.
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nodejs,django,fastapi,tensorflow,pytorch,postgres,mongodb,aws,docker,git&theme=dark" />
+</div>
 
-## 🔨 What I'm building right now
-
-### MicroZard · `IEEE EPICS`
-AI-based weed detection and removal system built to support local farmers. Real computer vision, real-world impact through the IEEE EPICS community program.
-`Python` `OpenCV` `TensorFlow` `IoT`
-
-### NightHawk · `Cybersecurity`
-Dark web monitoring solution for threat intelligence and OSINT-driven security analysis. Built for real investigative workflows.
-`Python` `Tor` `NLP` `Django`
-
-### Grants & Loans Platform · `Full-Stack`
-Centralized portal for government grants and bank loans with subscription-based access — solving a real discoverability problem for applicants.
-`React` `Node.js` `PostgreSQL` `Stripe`
-
----
+<div align="center">
+  <a href="https://github.com/Dhana-27/MicroZard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhana-27&repo=MicroZard&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Dhana-27/grant-loans-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhana-27&repo=grant-loans-website&theme=github_dark&hide_border=true" />
+  </a>
+</div>
 
 ## 💼 Experience
 
@@ -43,6 +44,20 @@ Contributed to production full-stack engineering. Gained hands-on experience wit
 | C/C++, TypeScript, Bash | FastAPI, PostgreSQL, MongoDB | scikit-learn, OSINT tooling | GitHub Actions, Vercel |
 
 ---
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhana-27&show_icons=true&theme=github_dark&hide_border=true&hide=prs&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhana-27&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhana-27/Dhana-27/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhana-27/Dhana-27/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dhana-27/Dhana-27/output/github-snake.svg" />
+  </picture>
+</div>
+
 
 ## 📬 Let's connect
 
@@ -51,7 +66,5 @@ I'm actively looking for SWE internships and 2027 new grad roles. If you're buil
 - 📧 dhanaor27@gmail.com
 - 💼 https://www.linkedin.com/in/dhanalakshmi-k-tech/
   
-
----
 
 *Open to opportunities · Chennai, India · Graduating 2027*
