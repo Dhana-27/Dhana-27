@@ -21,8 +21,8 @@ I build things that matter — an AI weed detection system for farmers, a dark w
   <a href="https://github.com/Dhana-27/MicroZard-A-lizard-inspired-Robot-for-Hydroagroclearing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhana-27&repo=MicroZard-A-lizard-inspired-Robot-for-Hydroagroclearing&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/Dhana-27/grant-loans-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhana-27&repo=grant-loans-website&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Dhana-27/SCHEME_CONNECT-WEBSITE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhana-27&repo=SCHEME_CONNECT-WEBSITE&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
