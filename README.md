@@ -14,7 +14,7 @@
 I build things that matter — an AI weed detection system for farmers, a dark web monitoring tool, a centralized grants platform. I'm at my best under pressure (most of my best ideas came from tight hackathon deadlines), and I believe discipline beats motivation every single time.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nodejs,django,fastapi,tensorflow,pytorch,postgres,mongodb,aws,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nodejs,django,fastapi,tensorflow,pytorch,postgres,mongodb,aws,docker,git&theme=dark" />
 </div>
 
 <div align="center">
